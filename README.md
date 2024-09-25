@@ -4,7 +4,7 @@ Welcome to the **AI Chatbot** project, a cutting-edge conversational assistant p
 
 # AI Chatbot
 
-![AI Chatbot](https://example.com/your-image.png) <!-- Replace with your image link -->
+
 
 ## 🌟 Overview
 
