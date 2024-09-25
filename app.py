@@ -2,10 +2,12 @@
 #GEMINAI_API_KEY = 'AIzaSyCt6g__hbNXduOwkkxtWyZExhkTSjRgM-g'
 from flask import Flask, request, jsonify, render_template
 import requests
-
+import os
+from dotenv import load_dotenv
+load_dotenv()
 app = Flask(__name__)
 
-GEMINAI_API_KEY = 'AIzaSyCt6g__hbNXduOwkkxtWyZExhkTSjRgM-g'  
+GEMINAI_API_KEY = os.getenv('GEMINAI_API_KEY')
 
 @app.route('/')
 def home():
