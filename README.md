@@ -2,6 +2,9 @@
 
 Welcome to the **AI Chatbot** project, a cutting-edge conversational assistant powered by the Google Gemini API. This innovative application is designed using Flask for the backend and elegantly crafted with HTML/CSS for the frontend, offering users an engaging and intuitive interface to communicate effortlessly with AI. Whether you're seeking information, assistance, or simply a friendly chat, our AI chatbot provides instant, intelligent responses tailored to your queries, making it an ideal companion for both casual users and tech enthusiasts alike. Experience the future of interactive AI and enhance your daily interactions through seamless communication!
 
+![Screenshot (166)](https://github.com/user-attachments/assets/a98ce02c-74b0-4a39-8c60-d22479372511)
+
+
 # AI Chatbot
 
 ![AI Chatbot](https://example.com/your-image.png) <!-- Replace with your image link -->
