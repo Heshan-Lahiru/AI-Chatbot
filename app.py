@@ -7,6 +7,7 @@ app = Flask(__name__)
 
 GEMINAI_API_KEY = os.getenv('GEMINAI_API_KEY')
 
+
 @app.route('/')
 def home():
     return render_template('index.html')
