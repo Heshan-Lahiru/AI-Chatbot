@@ -22,7 +22,7 @@
             const userInput = document.getElementById('user-input').value;
             document.getElementById('user-input').value = '';
 
-            // Append user's message to the chat box
+      
             const chatBox = document.getElementById('chat-box');
             chatBox.innerHTML += `<div class="message user-message">User: ${userInput}</div>`;
 
@@ -41,7 +41,7 @@
                 chatBox.innerHTML += `<div class="message error-message">Error: ${data.error}</div>`;
             }
 
-            // Scroll to the bottom of the chat box
+         
             chatBox.scrollTop = chatBox.scrollHeight;
         });
 

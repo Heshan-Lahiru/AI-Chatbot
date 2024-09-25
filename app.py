@@ -5,7 +5,7 @@ import requests
 
 app = Flask(__name__)
 
-GEMINAI_API_KEY = 'AIzaSyCt6g__hbNXduOwkkxtWyZExhkTSjRgM-g'  # Replace with your actual API key
+GEMINAI_API_KEY = 'AIzaSyCt6g__hbNXduOwkkxtWyZExhkTSjRgM-g'  
 
 @app.route('/')
 def home():
