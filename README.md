@@ -40,7 +40,7 @@ To use the Google Gemini API, you need to sign up for an API key. Make sure to r
 <!-- Replace with your image link -->
 
 📫 Contact
-For any questions, feel free to reach out to me at your.email@example.com.
+For any questions, feel free to reach out to me at lahiruheshan454@gmail.com.
 
 🙌 Contributions
 Contributions are welcome! Please feel free to submit a pull request or open an issue.
